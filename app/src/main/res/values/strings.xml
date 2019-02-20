@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UpdateAPP</string>
+    <string name="file_authorities">cool.android.updateapp.fileprovider</string>
+</resources>
